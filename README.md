@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Segmentation Model
 
 This project implements a customer segmentation model using K-Means clustering on the provided customer dataset.
@@ -75,3 +76,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn joblib
 - The model is unsupervised; cluster labels are arbitrary and may change with different random seeds.
 - For production, consider saving the random state or using a deterministic initialization.
 - The elbow method suggested K=5 as a good balance between inertia reduction and complexity.
+=======
+# Customer-Segmentation-
+Machine Learning based Customer Segmentation System
+>>>>>>> 2116673d03d715b4d0614107f047858adb01dcc5
